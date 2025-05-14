@@ -35,7 +35,7 @@ Farmers often struggle with selecting the right crop and fertilizer due to lack 
 - **Matplotlib & Seaborn**
 - **Gradio**
 - **Hugging Face Spaces**
-- **Jupyter Notebook**
+- **Google Colab**
 
 ---
 
