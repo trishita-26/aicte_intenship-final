@@ -85,5 +85,4 @@ fertilizer_tab = gr.Interface(
 app = gr.TabbedInterface([crop_tab, fertilizer_tab], ["Crop Prediction", "Fertilizer Recommendation"])
 app.launch()
 
-!pip install gradio
 
